@@ -45,8 +45,8 @@ U trećem djelu se upoznajemo sa `UITableView`-om pomoću kojega prikazujemo lis
 - Prilikom pokretanja aplikacije, također koristeći `UserDefaults` učitati sve spremljene destinacije i prikazati ih unutar `UITableView-a`
 
 ### Prikaz screen-ova
-1. [Unos destinacije](https://raw.githubusercontent.com/ibarisic05/MyDestinations/master/photos/unos_destinacija.png)
-2. [Lista svih destinacija](https://raw.githubusercontent.com/ibarisic05/MyDestinations/master/photos/lista_destinacija.png)
+1. [Unos destinacije](https://raw.githubusercontent.com/ibarisic05/MyDestinations/main/photos/unos_destinacija.png)
+2. [Lista svih destinacija](https://raw.githubusercontent.com/ibarisic05/MyDestinations/main/photos/lista_destinacija.png)
 
 # Korisni linkovi
 
